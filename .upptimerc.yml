@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.matsevh.be
   # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/
+  logoUrl: https://raw.githubusercontent.com/
   name: MatseVH Uptime
   # introTitle: "Al de uptime informatie voor mijn websites"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
