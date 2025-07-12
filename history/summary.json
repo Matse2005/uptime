@@ -80,19 +80,19 @@
     "url": "https://tools.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/tools.jeugdwerk.org.ico",
     "slug": "jeugdwerk-tools",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 244,
-    "timeWeek": 232,
-    "timeMonth": 247,
+    "timeDay": 160,
+    "timeWeek": 212,
+    "timeMonth": 241,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-07-12": 0
+      "2025-07-12": 7
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://badges.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/badges.jeugdwerk.org.ico",
     "slug": "jeugdwerk-badges",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 68,
-    "timeWeek": 226,
+    "timeDay": 154,
+    "timeWeek": 228,
     "timeMonth": 236,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-07-12": 0
+      "2025-07-12": 7
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://stratego.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/stratego.jeugdwerk.org.ico",
     "slug": "jeugdwerk-stratego",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 242,
-    "timeWeek": 247,
-    "timeMonth": 212,
+    "timeDay": 213,
+    "timeWeek": 239,
+    "timeMonth": 211,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-07-12": 0
+      "2025-07-12": 7
     }
   },
   {
