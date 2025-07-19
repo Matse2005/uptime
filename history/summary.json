@@ -80,19 +80,19 @@
     "url": "https://tools.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/tools.jeugdwerk.org.ico",
     "slug": "jeugdwerk-tools",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 299,
-    "timeWeek": 216,
+    "timeDay": 261,
+    "timeWeek": 217,
     "timeMonth": 235,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 18
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://badges.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/badges.jeugdwerk.org.ico",
     "slug": "jeugdwerk-badges",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 179,
+    "timeDay": 207,
     "timeWeek": 236,
     "timeMonth": 230,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 18
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://stratego.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/stratego.jeugdwerk.org.ico",
     "slug": "jeugdwerk-stratego",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 360,
-    "timeWeek": 184,
-    "timeMonth": 195,
+    "timeDay": 297,
+    "timeWeek": 190,
+    "timeMonth": 196,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 18
     }
   },
   {
