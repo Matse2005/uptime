@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeugdwerk.org.ico",
     "slug": "jeugdwerk",
     "status": "up",
-    "uptime": "95.01%",
+    "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.01%",
+    "uptimeYear": "95.02%",
     "time": 758,
     "timeDay": 770,
     "timeWeek": 833,
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeugdwerk.org.ico",
     "slug": "jeugdwerk-images",
     "status": "up",
-    "uptime": "95.01%",
+    "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.01%",
+    "uptimeYear": "95.02%",
     "time": 220,
     "timeDay": 163,
     "timeWeek": 208,
@@ -80,45 +80,49 @@
     "url": "https://tools.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/tools.jeugdwerk.org.ico",
     "slug": "jeugdwerk-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 299,
-    "timeWeek": 198,
+    "timeWeek": 216,
     "timeMonth": 235,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "Jeugdwerk Badges",
     "url": "https://badges.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/badges.jeugdwerk.org.ico",
     "slug": "jeugdwerk-badges",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 179,
-    "timeWeek": 237,
+    "timeWeek": 236,
     "timeMonth": 230,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "Jeugdwerk Stratego",
     "url": "https://stratego.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/stratego.jeugdwerk.org.ico",
     "slug": "jeugdwerk-stratego",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +131,9 @@
     "timeWeek": 184,
     "timeMonth": 195,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "Jonas Roets",
