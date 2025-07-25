@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeugdwerk.org.ico",
     "slug": "jeugdwerk",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.10%",
+    "uptimeYear": "95.11%",
     "time": 759,
     "timeDay": 669,
     "timeWeek": 821,
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeugdwerk.org.ico",
     "slug": "jeugdwerk-images",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.10%",
+    "uptimeYear": "95.11%",
     "time": 220,
     "timeDay": 229,
     "timeWeek": 198,
@@ -80,9 +80,9 @@
     "url": "https://tools.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/tools.jeugdwerk.org.ico",
     "slug": "jeugdwerk-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -92,6 +92,7 @@
     "timeMonth": 232,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-07-19": 18
     }
   },
@@ -100,9 +101,9 @@
     "url": "https://badges.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/badges.jeugdwerk.org.ico",
     "slug": "jeugdwerk-badges",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -112,6 +113,7 @@
     "timeMonth": 225,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-07-19": 18
     }
   },
@@ -120,9 +122,9 @@
     "url": "https://stratego.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/stratego.jeugdwerk.org.ico",
     "slug": "jeugdwerk-stratego",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -132,6 +134,7 @@
     "timeMonth": 211,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-07-19": 18
     }
   },
