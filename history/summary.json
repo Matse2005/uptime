@@ -80,11 +80,11 @@
     "url": "https://tools.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/tools.jeugdwerk.org.ico",
     "slug": "jeugdwerk-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 215,
     "timeDay": 271,
@@ -92,7 +92,7 @@
     "timeMonth": 231,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-07-27": 7,
+      "2025-07-27": 0,
       "2025-07-25": 20,
       "2025-07-19": 18
     }
@@ -102,11 +102,11 @@
     "url": "https://badges.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/badges.jeugdwerk.org.ico",
     "slug": "jeugdwerk-badges",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 258,
@@ -114,7 +114,7 @@
     "timeMonth": 221,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-07-27": 7,
+      "2025-07-27": 0,
       "2025-07-25": 20,
       "2025-07-19": 18
     }
@@ -124,11 +124,11 @@
     "url": "https://stratego.jeugdwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/stratego.jeugdwerk.org.ico",
     "slug": "jeugdwerk-stratego",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 215,
     "timeDay": 301,
@@ -136,7 +136,7 @@
     "timeMonth": 218,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-07-27": 7,
+      "2025-07-27": 0,
       "2025-07-25": 20,
       "2025-07-19": 18
     }
